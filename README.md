@@ -10,7 +10,7 @@ A classic Snake game built in Java using basic GUI components. This project is a
 - Keyboard controls (arrow keys)
 - Score tracking
 
-## 🛠️ Built With
+## 🛠️ Built With:
 
 - Java (JDK 8+)
 - Swing (for GUI)
